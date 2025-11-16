@@ -1,5 +1,1 @@
-{
-  "sampleLibraries": {
-    "gitara": "https://raw.githubusercontent.com/schwarzehund/samples/main/gitara/"
-  }
-}
+{"_base":"https://raw.githubusercontent.com/schwarzehund/samples/main/","gitara":["popoludnia.wav"]}
