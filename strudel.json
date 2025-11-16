@@ -1,1 +1,5 @@
-{"_base":"https://raw.githubusercontent.com/schwarzehund/samples"}
+{
+  "sampleLibraries": {
+    "gitara": "https://raw.githubusercontent.com/schwarzehund/samples/main/gitara/"
+  }
+}
